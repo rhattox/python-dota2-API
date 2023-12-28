@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment variables
+.env
+
+# Other user-specific files
+*.idea/
+*.vscode/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Distribution directories
+dist/
+build/
+*.egg-info/
